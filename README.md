@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there, I'm Shantanu Hazra! 👋
 
-<!--
-**shantanu-hazra/shantanu-hazra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a final year student and passionate software developer exploring the exciting worlds of **MERN stack**, **AI/ML**, and **Robotics**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Final year student specializing in full-stack web development
+- 💻 Skilled in JavaScript, React, Node.js, Express, MongoDB
+- 🤖 Exploring AI, machine learning, and robotics
+- 🌱 Always learning new technologies and improving my skills
+- 📫 Feel free to connect: [LinkedIn](https://www.linkedin.com/in/shantanuhazra) | [Twitter](https://twitter.com/shantanuhazra)
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js, REST APIs
+- **Databases:** MongoDB, Mongoose
+- **Tools & Platforms:** Git, GitHub, VSCode, Postman
+- **Others:** Python basics, Arduino (simulated), AI/ML fundamentals
+
+---
+
+## 📂 Featured Projects
+
+| Project Name          | Description                                    | Tech Stack                 | Link                        |
+|-----------------------|------------------------------------------------|----------------------------|-----------------------------|
+| **Interview Assistant** | AI-powered interview practice and analysis tool | React, Flask, Python, NLP  | [Repo Link](https://github.com/shantanuhazra/interview-assistant) |
+
+*Check out my full [GitHub profile](https://github.com/shantanuhazra) for more projects!*
+
+---
+
+## 📈 GitHub Stats
+
+![Shantanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shantanuhazra&show_icons=true&theme=radical)
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on open-source projects, learn from others, and grow together. Feel free to reach out!
+
+- 📧 Email: shantanuhazra@example.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/shantanuhazra
+- 🐦 Twitter: https://twitter.com/shantanuhazra
+
+---
+
+Thank you for stopping by! 😊
+
