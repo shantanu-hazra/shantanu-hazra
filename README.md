@@ -28,17 +28,11 @@ Welcome to my GitHub profile! I'm a final year student and passionate software d
 
 | Project Name          | Description                                    | Tech Stack                 | Link                        |
 |-----------------------|------------------------------------------------|----------------------------|-----------------------------|
-| **inceptoAI** | AI-powered interview practice and analysis tool | React, Flask, Python, NLP  | [Repo Link](https://github.com/shantanuhazra/interview-assistant) |
-| **connectMeet** | Application for video calling with your family and friends | React, Flask, Python, NLP  | [Repo Link](https://github.com/shantanuhazra/interview-assistant) |
-| **WanderLust** | Application to help you explore the world | React, Flask, Python, NLP  | [Repo Link](https://github.com/shantanuhazra/interview-assistant) |
+| **inceptoAI** | AI-powered interview practice and analysis tool | React.js, Flask, Python, NLP  | [Repo Link](https://github.com/shantanuhazra/inceptoAI) |
+| **connectMeet** | Application for video calling with your family and friends | React.js, Express.js  | [Repo Link](https://github.com/shantanuhazra/connectMeet) |
+| **WanderLust** | Application to help you explore the world | React.js, Flask, Python, NLP  | [Repo Link](https://github.com/shantanuhazra/wanderlust) |
 
 *Check out my full [GitHub profile](https://github.com/shantanuhazra) for more projects!*
-
----
-
-## 📈 GitHub Stats
-
-![Shantanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shantanuhazra&show_icons=true&theme=radical)
 
 ---
 
