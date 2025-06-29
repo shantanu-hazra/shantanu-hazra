@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a final year student and passionate software d
 - 💻 Skilled in JavaScript, React, Node.js, Express, MongoDB
 - 🤖 Exploring AI, machine learning, and robotics
 - 🌱 Always learning new technologies and improving my skills
-- 📫 Feel free to connect: [LinkedIn](https://www.linkedin.com/in/shantanuhazra) | [Twitter](https://twitter.com/shantanuhazra)
+- 📫 Feel free to connect: [LinkedIn](https://www.linkedin.com/in/shantanuhazra)
 
 ---
 
