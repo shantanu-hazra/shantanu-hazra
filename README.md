@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm a final year student and passionate software d
 
 ## 🛠️ Skills & Technologies
 
-- **Frontend:** React, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js, REST APIs
+- **Frontend:** React, HTML, CSS, JavaScript, Next
+- **Backend:** Node.js, Express.js, Flask
 - **Databases:** MongoDB, Mongoose
 - **Tools & Platforms:** Git, GitHub, VSCode, Postman
 - **Others:** Python basics, Arduino (simulated), AI/ML fundamentals
