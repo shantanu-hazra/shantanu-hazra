@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a final year student and passionate software d
 
 | Project Name          | Description                                    | Tech Stack                 | Link                        |
 |-----------------------|------------------------------------------------|----------------------------|-----------------------------|
-| **inceptoAI** | AI-powered interview practice and analysis tool | React.js, Flask, Python, NLP  | [Repo Link](https://github.com/shantanuhazra/inceptoAI) |
+| **inceptoAI** | AI-powered interview practice and analysis tool | React.js, Flask, Python, NLP, Gemini LLM  | [Repo Link](https://github.com/shantanuhazra/inceptoAI) |
 | **connectMeet** | Application for video calling with your family and friends | React.js, Express.js  | [Repo Link](https://github.com/shantanuhazra/connectMeet) |
 | **WanderLust** | Application to help you explore the world | Express ejs  | [Repo Link](https://github.com/shantanuhazra/wanderlust) |
 | **Procura** | Offline-first application for creation of invoices | Next.js, express.js, PostgreSQL  | [Repo Link](https://github.com/shantanuhazra/procura) |
