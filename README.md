@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I'm a final year student and passionate software d
 | **inceptoAI** | AI-powered interview practice and analysis tool | React.js, Flask, Python, NLP, Gemini LLM  | [Repo Link](https://github.com/shantanuhazra/inceptoAI) |
 | **connectMeet** | Application for video calling with your family and friends | React.js, Express.js  | [Repo Link](https://github.com/shantanuhazra/connectMeet) |
 | **WanderLust** | Application to help you explore the world | Express ejs  | [Repo Link](https://github.com/shantanuhazra/wanderlust) |
-| **Procura** | Offline-first application for creation of invoices | Next.js, express.js, PostgreSQL  | [Repo Link](https://github.com/shantanuhazra/procura) |
-| **Crypto-Wallet-Analyzer** | Application to inspect and analyze crypto wallets | Express ejs  | [Repo Link](https://github.com/shantanuhazra/Crypto-Wallet-Analyzer) |
+| **Procura** | Offline-first application for creation of invoices | Next.js, Express.js, PostgreSQL  | [Repo Link](https://github.com/shantanuhazra/procura) |
+| **Crypto-Wallet-Analyzer** | Application to inspect and analyze crypto wallets | Express.js, Crypto Wallet APIs  | [Repo Link](https://github.com/shantanuhazra/Crypto-Wallet-Analyzer) |
 
 *Check out my full [GitHub profile](https://github.com/shantanuhazra) for more projects!*
 
