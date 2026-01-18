@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a final year student and passionate software d
 I'm always excited to collaborate on open-source projects, learn from others, and grow together. Feel free to reach out!
 
 - 📧 Email: hazrashantanu051@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/shantanuh/
+- 🔗 LinkedIn: https://www.linkedin.com/in/shantanu-h/
 
 ---
 
